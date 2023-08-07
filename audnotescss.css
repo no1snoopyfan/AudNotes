@@ -1,4 +1,13 @@
 .large-non-bold {
-    font-size: 30px;
+    font-size: large;
     font-weight: normal;
 }
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: rgb(230, 31, 117);
+  }
