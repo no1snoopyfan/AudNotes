@@ -9,5 +9,6 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background-color: rgb(230, 31, 117);
+    background-color: #FAE5F1;
+    color: #0000FF;
   }
