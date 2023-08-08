@@ -11,4 +11,5 @@ body {
     margin: 0;
     background-color: #FAE5F1;
     color: #0000FF;
+    white-space: pre-line;
   }
